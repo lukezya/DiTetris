@@ -1,0 +1,5 @@
+Rob	5000
+Jayce	4000
+Jim	3000
+Frank	2000
+Kim	1000
